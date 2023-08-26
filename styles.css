@@ -277,6 +277,13 @@ aside h2{
   color:white;
    }
 
+   .botao-link {
+    display: inline-block;
+   
+    text-decoration: none;
+   color: #19f7fd;
+    font-weight: bold;
+}
 
 @media (max-width: 1200px) {
   .grid-container {
